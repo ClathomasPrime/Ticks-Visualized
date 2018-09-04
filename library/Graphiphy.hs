@@ -19,6 +19,9 @@ import qualified Diagrams.TwoD.Path.Boolean as B
 import Types
 import qualified Ticks
 
+-- TODO: faded big line MONTHs
+-- TODO: list climb names (manually unoverlap later)
+
 -- import Debug.Trace as Tr
 
 graphmain :: IO ()
@@ -66,12 +69,15 @@ drawPositionedDay minDay currentDay day diagram
   = diagram <> drawDay currentDay day # translateX xDateDiff
     where xDateDiff = (1/3) * fromIntegral (T.diffDays currentDay minDay)
 
+-- NOTE: next diagrams project, avoid helper functions that possition
+-- themselves (instead, position things in context)
+
+-- NOTE: this function is grotesquely bloated
 drawDay :: Day -> ClimbingDay -> Diagram B
 drawDay date (ClimbingDay extra pitches) =
-  dayMonth <> axisCopy
+  writeDay date <> bragText <> monthMaybe <> axisCopy
     <> (mconcat . map (uncurry drawBoulderGrade) $ collatedBoulders)
     <> (mconcat . map (uncurry drawYosGrade) $ collatedPitches)
-  -- NOTE: ignores boulders for now
   where collatedPitches :: [(YosGrade, [(Style, RopedClimbType)])]
         collatedPitches =
           collate . concatMap organize $ pitches
@@ -84,12 +90,39 @@ drawDay date (ClimbingDay extra pitches) =
         organize' (PitchClimb _ _ (Boulder grade) sty) = [(grade, sty)]
         organize' _ = []
 
-        dayMonth = if writeMonth extra
-          then writeDayMonth date
-          else writeDay date
+        (_, _, day) = T.toGregorian date
+
+        bragText = if any (writeBelow . extraData) pitches
+          then topLeftText ("[" ++ show day ++ "] " ++ showTextBrags pitches)
+                 # scale 0.15 # translateY (-0.3) # translateX (-0.12)
+          else mempty
+
+        monthMaybe = if writeMonth extra
+          then grayLine <> monthText
+          else mempty
+        grayLine = fromSegments [straight (r2 (0,maxHeight))]
+          # lwG 0.01 # translateX (-0.16) # lcA (gray `withOpacity` 0.5)
+        monthText = text (showMonth date) # scale 0.25 -- # rotate (-90 @@ deg)
+          # translate (r2 (-0.16, maxHeight)) # fcA (gray `withOpacity` 0.75)
+          # alignL
+
         axisCopy = if copyAxis extra
           then axis # translateX (-1.0)
           else mempty
+
+showTextBrags :: [PitchClimb] -> String
+showTextBrags pitches = L.intercalate ", " . concatMap spoop $ pitches
+  where spoop pitch =
+          let d = extraData pitch
+           in if writeBelow d
+                 then [climbName pitch ++
+                   if writeGrade d
+                      then " (" ++ gradeT (gradeType pitch) ++ ")"
+                      else ""
+                   ]
+                 else []
+        gradeT (Boulder g) = "v" ++ show g
+        gradeT (RopedClimb _ g) = cleanShowYosGrade g
 
 collate :: Ord a => [(a,b)] -> [(a,[b])]
 collate = fmap collateOne . L.groupBy fstEq . L.sortBy fstComp
@@ -102,24 +135,19 @@ writeDay :: Day -> Diagram B
 writeDay date = text (show day) # scale 0.15 # translateY (-0.15)
   where (_, _, day) = T.toGregorian date
 
-writeDayMonth :: Day -> Diagram B
-writeDayMonth date =
-  vsep 0.35
-    [ text (show day) # scale 0.15
-    , topLeftText (showMonth month) # scale 0.35 # translateX (-0.05)
-    ] # translateY (-0.15)
-  where (_, month, day) = T.toGregorian date
-
-showMonth :: Int -> String
-showMonth 1 = "January"
-showMonth 2 = "February"
-showMonth 3 = "March"
-showMonth 4 = "April"
-showMonth 5 = "May"
-showMonth 6 = "June"
-showMonth 7 = "July"
-showMonth 8 = "August"
-showMonth _ = "Whaaa"
+showMonth :: Day -> String
+showMonth d =
+  let (_, m, _) = T.toGregorian d
+   in case m of
+        1 -> "January"
+        2 -> "February"
+        3 -> "March"
+        4 -> "April"
+        5 -> "May"
+        6 -> "June"
+        7 -> "July"
+        8 -> "August"
+        _ -> "Whaaa"
 
 drawYosGrade :: YosGrade -> [(Style, RopedClimbType)] -> Diagram B
 drawYosGrade grade pitches = drawYosGrade' (reverse $ L.sort pitches) 0

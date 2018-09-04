@@ -16,37 +16,37 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "The Standard"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Contrail"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 5
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Helicopter"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 6
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Scoop"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Full Circle"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 5
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "The Hobbit"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 5
                 , style = Flash
                 }
@@ -59,31 +59,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Pasty Faced Weirdos"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Iron Claw"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData { writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 7
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The climb that wasn't called 40 feet of fun"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Making waves"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Blue"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 6
                 , style = Redpoint
                 }
@@ -96,49 +96,49 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Red Belly"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Ripple"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Rail Grind"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Mario"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Luigi"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Jaber Jaw"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 5
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Grape Ape"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Lab Rats"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 6
                 , style = Flash
                 }
@@ -151,19 +151,25 @@ ticksData =
             ClimbingDay defaultDayData { writeMonth = True}
             [ PitchClimb
                 { climbName = "Groove 2"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
+                , gradeType = Boulder 0
+                , style = Redpoint
+                }
+            , PitchClimb
+                { climbName = "Merlin"
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Bumboy"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Hammerhead"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 5
                 , style = Onsight
                 }
@@ -176,25 +182,37 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Sandbox"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
+                { climbName = "Red Arrow"
+                , extraData = defaultClimbData
+                , gradeType = Boulder 3
+                , style = Redpoint
+                }
+            , PitchClimb
                 { climbName = "The Beach"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Silky"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
             , PitchClimb
+                { climbName = "That boulder that shut down Donovan lol"
+                , extraData = defaultClimbData
+                , gradeType = Boulder 4
+                , style = Redpoint
+                }
+            , PitchClimb
                 { climbName = "Crisifix"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
@@ -207,25 +225,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Popeye"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 5
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Wasp"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 1
                 , style = Redpoint
                 }
             , PitchClimb
+                { climbName = "Slow hand corridor slab"
+                , extraData = defaultClimbData
+                , gradeType = Boulder 4
+                , style = Redpoint
+                }
+            , PitchClimb
                 { climbName = "Man with a Slow Hand"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Honkey Tonkin'"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
@@ -238,31 +262,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Tennessee Thong"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 7
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Swingers"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Wave"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 6
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "A Face in the Crowd"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 6
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Incredarete"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 1
                 , style = Redpoint
                 }
@@ -275,31 +299,31 @@ ticksData =
             ClimbingDay defaultDayData { copyAxis = True}
             [ PitchClimb
                 { climbName = "Touch and Go"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Bonzo Dog Band"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 7 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Swing Low"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 7 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Eff Four"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 6 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Ass of Dog"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Redpoint
                 }
@@ -312,13 +336,13 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Dung Fu"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 7 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Tax Man"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Onsight
                 }
@@ -331,25 +355,25 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Sail Away"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Minus )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Clean and Jerk"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 10 C )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Left Ski Track"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 A )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Western Saga"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Onsight
                 }
@@ -362,37 +386,37 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Dappled Mare"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 6 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Dappled Mare"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Dappled Mare"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Dappled Mare"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 8 Minus )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Overseer"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "White Lightning"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 7 Even )
                 , style = Flash
                 }
@@ -405,31 +429,31 @@ ticksData =
             ClimbingDay defaultDayData { writeMonth = True}
             [ PitchClimb
                 { climbName = "Double Cross"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 7 Plus )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Dogleg"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Plus )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Championship Wrestling"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Dandelion"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Clean and Jerk"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = RopedClimb CrackClimb ( Five 10 C )
                 , style = Redpoint
                 }
@@ -442,13 +466,13 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Fisticuffs"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "SW Corner"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 6 Even )
                 , style = Onsight
                 }
@@ -461,13 +485,13 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Hobbit Hole Offwidth"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Leave it to Beaver"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 12 A )
                 , style = Fail
                 }
@@ -480,43 +504,43 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Exorcist"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "It"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Plus )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Walk on the Wild Side"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb MixedClimb ( Five 8 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Walk on the Wild Side"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb MixedClimb ( Five 6 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Right On"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 6 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Right On"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 6 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Right On"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 6 Even )
                 , style = Onsight
                 }
@@ -529,37 +553,37 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Dynamo Hum"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 1
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Old Triangle Classic"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "False Hueco"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 1
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "False Hueco Traverse"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "White Rastafarian"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 2
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "North Overhang"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Onsight
                 }
@@ -572,31 +596,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Illusion Dweller"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Stem Gem"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Fisticuffs"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Run For Your Life"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 10 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Tumbling Rainbow"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Onsight
                 }
@@ -609,19 +633,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Alf's Arete"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb SportClimb ( Five 11 A )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Imaginary Voyage"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Surrealistic Pillar"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Onsight
                 }
@@ -634,7 +658,7 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "False Up 20"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Flash
                 }
@@ -647,37 +671,37 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Stichter Quits"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb MixedClimb ( Five 7 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Forbidden Paradise"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb MixedClimb ( Five 10 B )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Heart and Sole"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Stick to What"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb MixedClimb ( Five 9 Even )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "EBGB's"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 10 D )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Pope's Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Fail
                 }
@@ -689,38 +713,38 @@ ticksData =
         ,
             noExtraDayData
             [ PitchClimb
-                { climbName = "Figures on a Landscape (aka Monkey on My Back)"
-                , extraData = NoClimbData
+                { climbName = "Figures on a Landscape"
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb TradClimb ( Five 10 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Figures on a Landscape (aka Monkey on My Back)"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 10 A )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Room To Shroom"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Gunsmoke"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = Boulder 3
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "The Chube"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Loose Lady"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 10 A )
                 , style = Onsight
                 }
@@ -733,19 +757,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Paralyzed"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Potatoe Chips"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Prophet"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = RopedClimb SportClimb ( Five 12 B )
                 , style = Redpoint
                 }
@@ -757,7 +781,7 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Potatoe Chips"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 6
                 , style = Redpoint
                 }
@@ -770,43 +794,43 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Claimjumpers Special"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 10 C )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Scorpions"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 A )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Sport Chimney"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 8 Even )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Sunny and Steep"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 D )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Steep Thrills"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 12 A )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Gimme Back My Bullets"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 12 A )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Mr Choad's Wild Ride"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 B )
                 , style = Flash
                 }
@@ -819,25 +843,25 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Cat in the Hat"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 6 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Cat in the Hat"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 6 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Cat in the Hat"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 6 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Rabbit's Arete"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Onsight
                 }
@@ -850,7 +874,7 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Desert gold P1"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Even )
                 , style = Redpoint
                 }
@@ -863,19 +887,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Brown Round Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Peruvian Flake"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Bachar Problem"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 7
                 , style = Redpoint
                 }
@@ -888,25 +912,25 @@ ticksData =
             ClimbingDay defaultDayData { writeMonth = True}
             [ PitchClimb
                 { climbName = "The Angler"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Don't Leave Too Soon"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Low Tide"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 6
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Water Paintings"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 7
                 , style = Redpoint
                 }
@@ -919,19 +943,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Railroad Tracks"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Ruins Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 Even )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Cave Route"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Fail
                 }
@@ -944,7 +968,7 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Airwolf"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = Boulder 6
                 , style = Flash
                 }
@@ -957,19 +981,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Jolly Rancher"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Spaghetti Western"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 Even )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Steve's Wimpout"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Fail
                 }
@@ -982,19 +1006,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Kelly's Arete"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 5
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Bobcat in the Kiparoo"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Kill by Numbers"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 5
                 , style = Redpoint
                 }
@@ -1007,49 +1031,49 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Fist Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Lanky"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Beer Belly"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Hand Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Cook the Patty"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 6
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Trouff"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "DK's Bulge"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 1
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Bowling Ball"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
@@ -1062,31 +1086,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "The Wave"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Crest"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Right of Anti-Future Plan"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 6
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Wills A Fire"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 6
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Down Climb"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
@@ -1099,31 +1123,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Ankle Deep in Gasoline"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Michelangelo"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "The Comedian"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 5
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Great White"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 6
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Epic V0"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
@@ -1136,37 +1160,37 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Phone Booth"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 10 A )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Called on Account of Pain"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 Plus )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Beautiful Loser"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 10 A )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Chain Reaction"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 10 A )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Nameless Arête"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 10 A )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Tango Super Direct"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 10 A )
                 , style = Semisend
                 }
@@ -1179,37 +1203,37 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "The Horn"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "The flake"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Rat Rock Traverse"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "cats corner"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Cat Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Cat Arete"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 1
                 , style = Onsight
                 }
@@ -1222,19 +1246,19 @@ ticksData =
             ClimbingDay defaultDayData { copyAxis = True}
             [ PitchClimb
                 { climbName = "Meat Machine"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 Minus )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Cube Steaks"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Unnamed blocky corner to hands splitter"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Onsight
                 }
@@ -1247,31 +1271,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "The Inhabitants"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 Even )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Fuzz"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Rochambeau"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Serrator Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 Minus )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Layaway Plan"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 Plus )
                 , style = Fail
                 }
@@ -1284,19 +1308,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Fertile Crescent"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Big Guy"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 Minus )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Desert Vuarnet"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 Plus )
                 , style = Semisend
                 }
@@ -1309,31 +1333,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "The Wave"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Plus )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Keyhole Flake"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Supercrack of the Desert"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "International Affair"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 12 Even )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Coyne Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 D )
                 , style = Fail
                 }
@@ -1346,19 +1370,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Incredible Hand Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Ruby Flame"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 Even )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Belly full of bad berries"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = RopedClimb CrackClimb ( Five 13 Minus )
                 , style = Fail
                 }
@@ -1371,25 +1395,25 @@ ticksData =
             ClimbingDay defaultDayData { writeMonth = True}
             [ PitchClimb
                 { climbName = "Stolen Chimney"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb TradClimb ( Five 10 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Stolen Chimney"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Even )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Stolen Chimney"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Stolen Chimney"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 7 Even )
                 , style = Fail
                 }
@@ -1402,31 +1426,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Hayutake"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Plus )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Charlie's Pillar"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Even )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Annunaki"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = RopedClimb CrackClimb ( Five 11 Plus )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Neat"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Lady Pillar"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Minus )
                 , style = Semisend
                 }
@@ -1439,19 +1463,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Desert Vuarnet"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = RopedClimb CrackClimb ( Five 11 Plus )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Black Uhuru"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Plus )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Big Guy"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 Minus )
                 , style = Semisend
                 }
@@ -1464,19 +1488,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "No Beggin'"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Minus )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Finnegan's Whiskers"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Brother From Another Planet"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = RopedClimb CrackClimb ( Five 12 A )
                 , style = Fail
                 }
@@ -1489,19 +1513,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Lightning Bolt Cracks"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 11 Minus )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Lightning Bolt Cracks"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 Minus )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Lightning Bolt Cracks"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Onsight
                 }
@@ -1514,13 +1538,13 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Largo Lounge"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "The Jimmy Hendrix Experience"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Onsight
                 }
@@ -1533,31 +1557,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Outer Limits"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Cookie Monster"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 12 A )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Crack-a-Go-Go"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 C )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Catchy"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Catchy Corner"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 A )
                 , style = Onsight
                 }
@@ -1570,25 +1594,25 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "The Angler"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Zorro"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Circuit Breaker"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Unnamed"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
@@ -1600,56 +1624,56 @@ ticksData =
         ,
             noExtraDayData
             [ PitchClimb
-                { climbName = "East Buttress"
-                , extraData = NoClimbData
+                { climbName = "East Buttress of Middle Cathedral"
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb TradClimb ( Five 6 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "East Buttress"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "East Buttress"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "East Buttress"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 7 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "East Buttress"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 10 A )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "East Buttress"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 6 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "East Buttress"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 7 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "East Buttress"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "East Buttress"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 7 Even )
                 , style = Redpoint
                 }
@@ -1662,43 +1686,43 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Voyager"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 11 A )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Voyager"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Voyager"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 C )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Voyager"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 C )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Voyager"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 A )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Voyager"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 C )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Voyager"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 A )
                 , style = Fail
                 }
@@ -1711,31 +1735,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Ying-Yang"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Hari-Kiri"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Yami Shami"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 Minus )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Unagi"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Manana"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Onsight
                 }
@@ -1748,25 +1772,25 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Freeblast"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 10 C )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Freeblast"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 B )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Freeblast"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 C )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Freeblast"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 A )
                 , style = Fail
                 }
@@ -1779,7 +1803,7 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Waverly wafer"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Fail
                 }
@@ -1792,25 +1816,25 @@ ticksData =
             ClimbingDay defaultDayData { writeMonth = True}
             [ PitchClimb
                 { climbName = "Birch Tree Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 8 Even )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Upper Diagonal"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 9 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Sometime Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 10 A )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Michael's Project"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 8 Minus )
                 , style = Onsight
                 }
@@ -1823,25 +1847,25 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Curving Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 8 Even )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Dancing Madly Backwards"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 10 B )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Pacific Ocean Wall"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 D )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Seven Seas"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 B )
                 , style = Semisend
                 }
@@ -1854,7 +1878,7 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Big Bud Arete"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
@@ -1867,7 +1891,7 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "The Flatiron"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 4
                 , style = Onsight
                 }
@@ -1880,37 +1904,37 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Brinton's Direct"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 8 Plus )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "The Stretcher"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 9 Plus )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "The Dog"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 12 A )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "The End"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 10 A )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Congratulations"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 10 B )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Fat Pants"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 7
                 , style = Redpoint
                 }
@@ -1923,55 +1947,55 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Stairway"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Spread Eagle"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Starfish"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 6
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Pocket Problem"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Tall Boy"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 1
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Flying Mancuso"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Bottle"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Flux Boulder Classic"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Sticky Arete"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
@@ -1984,43 +2008,43 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Trust Fund Slab"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Intercourse Arete"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Boulder Across from Pete's Pebble"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Jenga"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 6
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Super Slab"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "P.Stachio"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Romper"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb (Five 2 Even)
                 , style = Redpoint
                 }
@@ -2035,31 +2059,31 @@ ticksData =
               , copyAxis = True}
             [ PitchClimb
                 { climbName = "Monkey in the Middle"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 A )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Scar Tissue"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = RopedClimb SportClimb ( Five 12 A )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Hippocrite"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = RopedClimb SportClimb ( Five 12 A )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Eager Beaver"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 12 Plus )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Dirty Bird"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 10 B )
                 , style = Onsight
                 }
@@ -2072,37 +2096,37 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Five Finger Discount"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Pulling Pockets"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 10 D )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Synchronicity"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 A )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "The Return of Chris Snyder"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 D )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Wild Gift"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 12 C )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Andromeda Strain"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Plus )
                 , style = Onsight
                 }
@@ -2115,31 +2139,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Bedtime for Bonzo"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 6 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Bedtime for Bonzo"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 6 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "American Wall"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 5 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "American Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 6 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Calypso III"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 5 Even )
                 , style = Redpoint
                 }
@@ -2152,31 +2176,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Bathtub Mary"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 A )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Bullfighter"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = RopedClimb SportClimb ( Five 12 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Banshee"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 C )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Abiyoyo"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = RopedClimb SportClimb ( Five 12 B )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Lip Service"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 C )
                 , style = Fail
                 }
@@ -2189,19 +2213,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Pineapple Express"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 12 A )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Slice of Spice"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Hourglass Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Onsight
                 }
@@ -2214,7 +2238,7 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Boogered"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 11 B )
                 , style = Redpoint
                 }
@@ -2227,13 +2251,13 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Too Many Puppies"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 12 A )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Table of Colors"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 13 A )
                 , style = Fail
                 }
@@ -2246,19 +2270,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Ale-8-One"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 12 B )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Harvest"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 12 D )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "The Sauce"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 12 B )
                 , style = Fail
                 }
@@ -2273,25 +2297,25 @@ ticksData =
               , copyAxis = True }
             [ PitchClimb
                 { climbName = "2nd Apron Center"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb TradClimb ( Five 7 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "2nd Apron Center"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 6 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "2nd Apron Center"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 7 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "2nd Apron Center"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 3 Even )
                 , style = Onsight
                 }
@@ -2304,25 +2328,25 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "The Hueco Route"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 1
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Barnacles"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 1
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Rail"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Pocket"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
@@ -2335,37 +2359,37 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Pimpsqueak"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 8
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Hueco Route"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 1
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Flounder"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Swordfish"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Drugstore Cowboy"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Pocket"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
@@ -2378,19 +2402,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Fridge Slab"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Fridge Center"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Fridge Arete"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
@@ -2403,31 +2427,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "South Face, Jello Tower"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Plus )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Angel"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Midway"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 5 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Midway"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 6 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Damnation Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Plus )
                 , style = Onsight
                 }
@@ -2440,37 +2464,37 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Outer Space"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 5 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Outer Space"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Outer Space"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Outer Space"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Outer Space"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Outer Space"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Even )
                 , style = Onsight
                 }
@@ -2483,61 +2507,61 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Schisthead"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Prey"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Royal Flush"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Footless Traverse"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 5
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Dyno 101"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Beach Arete"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Beach slab"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 1
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Wave"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 1
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Brickwork"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Beached Whale"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
@@ -2550,25 +2574,25 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Dyke Surfer"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Superdyke"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "A Pitch In Time"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Rainy Day Dream Away"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 C )
                 , style = Redpoint
                 }
@@ -2581,31 +2605,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Bop 'til You Drop"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Boogie 'til you Puke"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 B )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "March Of The Kitchen Utensils"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Backwoods Bebop"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "March Of The Kitchen Utensils"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 B)
                 , style = Fail
                 }
@@ -2618,7 +2642,7 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Five Star Pillar"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
@@ -2631,67 +2655,67 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Milk Road"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 10 C )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Milk Road"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 10 B )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Milk Road"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 10 D )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Milk Road"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 10 B )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Milk Road"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 8 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Milk Road"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 10 A )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Milk Road"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 10 C )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Superfly"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Super Fly Slab"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Easy in an Easy Chair"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Crackhead"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Flash
                 }
@@ -2704,19 +2728,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Calculus Direct"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Calculus Direct"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Calculus Direct"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 7 Even )
                 , style = Onsight
                 }
@@ -2729,73 +2753,73 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Angels Crest"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 10 C )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Angels Crest"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Angels Crest"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 C )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Angels Crest"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 6 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Angels Crest"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Angels Crest"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 5 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Angels Crest"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Angels Crest"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Angels Crest"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 5 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Angels Crest"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "High Plains Drifter"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "High Plains Drifter"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = RopedClimb CrackClimb ( Five 11 C )
                 , style = Flash
                 }
@@ -2808,19 +2832,19 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Perspective"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 Minus )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Claim Jumper"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 D )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Hypertension"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = RopedClimb CrackClimb ( Five 11 A )
                 , style = Flash
                 }
@@ -2833,73 +2857,73 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Cruel Shoes"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Cruel Shoes"
-                , extraData = NoClimbData
-                , gradeType = RopedClimb SportClimb ( Five 10 D )
+                , extraData = defaultClimbData
+                , gradeType = RopedClimb TradClimb ( Five 10 D )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Cruel Shoes"
-                , extraData = NoClimbData
-                , gradeType = RopedClimb SportClimb ( Five 10 B )
+                , extraData = defaultClimbData
+                , gradeType = RopedClimb TradClimb ( Five 10 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Cruel Shoes"
-                , extraData = NoClimbData
-                , gradeType = RopedClimb SportClimb ( Five 10 C )
+                , extraData = defaultClimbData
+                , gradeType = RopedClimb TradClimb ( Five 10 C )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Cruel Shoes"
-                , extraData = NoClimbData
-                , gradeType = RopedClimb SportClimb ( Five 9 Even )
+                , extraData = defaultClimbData
+                , gradeType = RopedClimb TradClimb ( Five 9 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Cruel Shoes"
-                , extraData = NoClimbData
-                , gradeType = RopedClimb SportClimb ( Five 10 D )
+                , extraData = defaultClimbData
+                , gradeType = RopedClimb TradClimb ( Five 10 D )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "The Grand Wall"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "The Grand Wall"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 A )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "The Grand Wall"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "The Grand Wall"
-                , extraData = NoClimbData
-                , gradeType = RopedClimb SportClimb ( Five 10 A )
+                , extraData = defaultClimbData
+                , gradeType = RopedClimb TradClimb ( Five 10 A )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "The Grand Wall"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 C )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "The Fuzz"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = Boulder 7
                 , style = Redpoint
                 }
@@ -2912,25 +2936,25 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Wild Turkey"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Even )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Wild Turkey"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Wild Turkey"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 Even )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Klahanie Crack"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 7 Even )
                 , style = Onsight
                 }
@@ -2943,49 +2967,49 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Cerberus"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Cerberus"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Cerberus"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Cerberus"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 7 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Cerberus"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 10 D )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Cerberus"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 D )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Cerberus"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 D )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "King for a day"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 5
                 , style = Redpoint
                 }
@@ -2998,49 +3022,49 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Yorkshire Gripper"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Popeye and the Raven"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 10 C )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Quarryman"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Crime of the Century"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = RopedClimb CrackClimb ( Five 11 C )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Penny Lane"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Perspective"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 11 A )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Claim Jumper"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 11 D )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Sentry Box"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 12 A )
                 , style = Fail
                 }
@@ -3053,55 +3077,55 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Slice and Dice"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 1
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Pete's Face"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 1
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Alien within"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Shots Fired!"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "The Silencer (stand)"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 3
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "No Excuse For Porn Hair"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Mouthy"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 5
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Minor Swing"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 6
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Spring Fling"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 6
                 , style = Redpoint
                 }
@@ -3114,61 +3138,61 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "New Life"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "New Life"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "New Life"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 C )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "New Life"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb MixedClimb ( Five 11 A )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "New Life"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Parallel Passages"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Parallel Passages"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Parallel Passages"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Parallel Passages"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Parallel Passages"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Redpoint
                 }
@@ -3181,25 +3205,25 @@ ticksData =
             ClimbingDay defaultDayData { writeMonth = True}
             [ PitchClimb
                 { climbName = "Krimo Gold"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Krimo Gold"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 C )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Krimo Gold"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Krimo Gold"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 A )
                 , style = Onsight
                 }
@@ -3212,37 +3236,37 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Fantastic Mr. Fox"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 7
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = ""
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 0
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = ""
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 1
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = ""
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 2
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Slot Machine"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Plus )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Fantastic Mr. Fox"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = Boulder 4
                 , style = Redpoint
                 }
@@ -3255,67 +3279,67 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Freeway"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True}
                 , gradeType = RopedClimb CrackClimb ( Five 11 A )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Freeway"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Freeway"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 B )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Freeway"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 C )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Freeway"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 B )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Freeway"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 C )
                 , style = Semisend
                 }
             , PitchClimb
                 { climbName = "Freeway"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb MixedClimb ( Five 11 A )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Freeway"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 C )
                 , style = Flash
                 }
             , PitchClimb
                 { climbName = "Freeway"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 A )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Freeway"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Freeway"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 10 D )
                 , style = Flash
                 }
@@ -3328,25 +3352,25 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Exasperator"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Seasoned in the Sun"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Rutebega"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Rutebega"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 A )
                 , style = Onsight
                 }
@@ -3359,31 +3383,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Behind the Eight Ball"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 A )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Slow Children"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData{writeBelow=True, writeGrade=True}
                 , gradeType = RopedClimb CrackClimb ( Five 10 D )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Godzilla"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 9 Even )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "City Park"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 10 C )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Tommy's Sandbox"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 11 A )
                 , style = Onsight
                 }
@@ -3396,31 +3420,31 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Princely Ambitions"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 9 Even )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Aries (aka The Lizard)"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb CrackClimb ( Five 8 Plus )
                 , style = Redpoint
                 }
             , PitchClimb
                 { climbName = "Leave My Face Alone"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 A )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Zoom"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb TradClimb ( Five 10 D )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Climax Control"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 Even )
                 , style = Onsight
                 }
@@ -3433,25 +3457,25 @@ ticksData =
             noExtraDayData
             [ PitchClimb
                 { climbName = "Kite Flying Blind"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 A )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Kite Flying Blind"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 C )
                 , style = Onsight
                 }
             , PitchClimb
                 { climbName = "Over Orcsposed"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 11 B )
                 , style = Fail
                 }
             , PitchClimb
                 { climbName = "Over Orcsposed"
-                , extraData = NoClimbData
+                , extraData = defaultClimbData
                 , gradeType = RopedClimb SportClimb ( Five 12 A )
                 , style = Fail
                 }

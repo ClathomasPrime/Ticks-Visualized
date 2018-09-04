@@ -62,7 +62,7 @@ instance FromNamedRecord DatedClimb where
           then "  !!!MULTIPITCH!!! EXPAND ME!!! (" ++ pitchesStr ++ ")"
           else ""
     return $ DatedClimb (read dateStr)
-      (PitchClimb (name ++ pitchSuffix) NoClimbData
+      (PitchClimb (name ++ pitchSuffix) defaultClimbData
         (stringToGradeType gradeStr routeTypeStr) sty)
     -- case style of
     --   "" -> fail "empty style column"
