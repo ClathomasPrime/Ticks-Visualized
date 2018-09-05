@@ -230,11 +230,15 @@ typeColor SportClimb = sRGB24read "1517ea"
 
 gradeHeight :: YosGrade -> Double
 gradeHeight (Five i m)
-  | i < 10 = (1/8) + 0.75 ^ (10 - i)
-  | i == 10 = 1 + modifierHeight m
+  | i < 10 = rescaleFactor * ((1/8) + 0.75 ^ (10 - i))
+  | otherwise = rescaleFactor * ((fromIntegral i - 9) + modifierHeight m)
+{-  | i == 10 = 1 + modifierHeight m
   | i == 11 = 2 + 2 * modifierHeight m
   | i >= 12 = 4 + (fromIntegral i - 12) + modifierHeight m
   | otherwise = error "weird yos grade"
+-}
+rescaleFactor :: Double
+rescaleFactor = (5 + 1/8) / (4 + 1/8)
 
 maxHeight :: Double
 maxHeight = gradeHeight (Five 13 A)
