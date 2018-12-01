@@ -40,13 +40,13 @@
      inkscape:window-height="744"
      id="namedview5234"
      showgrid="false"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="6887.6526"
-     inkscape:cy="498.58469"
+     inkscape:zoom="0.32"
+     inkscape:cx="14729.5"
+     inkscape:cy="919.99578"
      inkscape:window-x="49"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs4">
     <marker
@@ -10641,16 +10641,6 @@
     <g
        style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
        stroke-miterlimit="10.0"
-       id="g334-76"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 2683.3258,1402.8778 V 140.0638"
-         id="path336-0" />
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
        id="g338-4"
        transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
       <path
@@ -10669,796 +10659,6 @@
          dominant-baseline="text-after-edge"
          transform="translate(2638.9733,147.4559)"
          id="text344-2">5.13a</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g346-2"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,216.598 h 36.9604"
-         id="path348-2" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g350-4"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,221.526)"
-         id="text352-6">5.12d</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g354-0"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,293.1321 h 36.9604"
-         id="path356-2" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g358-3"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,298.0602)"
-         id="text360-9">5.12c</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g362-8"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,369.6663 h 36.9604"
-         id="path364-6" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g366-8"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,374.5944)"
-         id="text368-6">5.12b</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g370-9"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,446.2005 h 36.9604"
-         id="path372-7" />
-    </g>
-    <g
-       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="36.960410671229674px"
-       stroke-miterlimit="10.0"
-       id="g374-2"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,453.5926)"
-         id="text376-6">5.12a</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g378-8"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,522.7347 h 36.9604"
-         id="path380-8" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g382-9"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,527.6628)"
-         id="text384-88">5.11d</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g386-1"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,599.2689 h 36.9604"
-         id="path388-6" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g390-8"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,604.1969)"
-         id="text392-0">5.11c</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g394-4"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,675.8031 h 36.9604"
-         id="path396-84" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g398-4"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,680.7311)"
-         id="text400-2">5.11b</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g402-9"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,752.3372 h 36.9604"
-         id="path404-6" />
-    </g>
-    <g
-       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="36.960410671229674px"
-       stroke-miterlimit="10.0"
-       id="g406-4"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,759.7293)"
-         id="text408-5">5.11a</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g410-5"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,828.8714 h 36.9604"
-         id="path412-47" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g414-0"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,833.7995)"
-         id="text416-5">5.10d</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g418-7"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,905.4056 h 36.9604"
-         id="path420-6" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g422-4"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,910.3337)"
-         id="text424-3">5.10c</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g426-5"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,981.9398 h 36.9604"
-         id="path428-3" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g430-7"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,986.8679)"
-         id="text432-3">5.10b</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g434-2"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,1058.474 h 36.9604"
-         id="path436-8" />
-    </g>
-    <g
-       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="36.960410671229674px"
-       stroke-miterlimit="10.0"
-       id="g438-3"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,1065.8661)"
-         id="text440-0">5.10a</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g442-8"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,1135.0082 h 36.9604"
-         id="path444-6" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g446-69"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,1139.9362)"
-         id="text448-7">5.9</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g450-19"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,1192.4088 h 36.9604"
-         id="path452-3" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g454-7"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,1197.3369)"
-         id="text456-1">5.8</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g458-2"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,1235.4593 h 36.9604"
-         id="path460-3" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g462-5"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,1240.3873)"
-         id="text464-7">5.7</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g466-0"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,1267.7471 h 36.9604"
-         id="path468-2" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g470-6"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,1272.6752)"
-         id="text472-0">5.6</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g474-73"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 2646.3654,1323.7464 h 36.9604"
-         id="path476-7" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g478-1"
-       transform="matrix(1.0000149,0,0,1.0000149,3410.709,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(2638.9733,1328.6745)"
-         id="text480-8">5.3</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5086-5"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 167.5539,1402.8778 V 140.0638"
-         id="path5088-5" />
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5090-0"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,140.0638 h 36.9604"
-         id="path5092-5" />
-    </g>
-    <g
-       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="36.960410671229674px"
-       stroke-miterlimit="10.0"
-       id="g5094-0"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,147.4559)"
-         id="text5096-2">5.13a</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5098-3"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,216.598 h 36.9604"
-         id="path5100-8" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g5102-3"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,221.526)"
-         id="text5104-1">5.12d</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5106-1"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,293.1321 h 36.9604"
-         id="path5108-8" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g5110-3"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,298.0602)"
-         id="text5112-7">5.12c</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5114-0"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,369.6663 h 36.9604"
-         id="path5116-9" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g5118-3"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,374.5944)"
-         id="text5120-6">5.12b</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5122-2"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,446.2005 h 36.9604"
-         id="path5124-7" />
-    </g>
-    <g
-       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="36.960410671229674px"
-       stroke-miterlimit="10.0"
-       id="g5126-4"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,453.5926)"
-         id="text5128-1">5.12a</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5130-6"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,522.7347 h 36.9604"
-         id="path5132-1" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g5134-4"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,527.6628)"
-         id="text5136-3">5.11d</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5138-4"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,599.2689 h 36.9604"
-         id="path5140-7" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g5142-3"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,604.1969)"
-         id="text5144-9">5.11c</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5146-8"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,675.8031 h 36.9604"
-         id="path5148-1" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g5150-6"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,680.7311)"
-         id="text5152-0">5.11b</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5154-6"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,752.3372 h 36.9604"
-         id="path5156-6" />
-    </g>
-    <g
-       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="36.960410671229674px"
-       stroke-miterlimit="10.0"
-       id="g5158-2"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,759.7293)"
-         id="text5160-1">5.11a</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5162-6"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,828.8714 h 36.9604"
-         id="path5164-8" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g5166-4"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,833.7995)"
-         id="text5168-9">5.10d</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5170-6"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,905.4056 h 36.9604"
-         id="path5172-9" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g5174-7"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,910.3337)"
-         id="text5176-6">5.10c</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5178-9"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,981.9398 h 36.9604"
-         id="path5180-2" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g5182-4"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,986.8679)"
-         id="text5184-1">5.10b</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5186-1"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,1058.474 h 36.9604"
-         id="path5188-9" />
-    </g>
-    <g
-       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="36.960410671229674px"
-       stroke-miterlimit="10.0"
-       id="g5190-4"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,1065.8661)"
-         id="text5192-7">5.10a</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5194-2"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,1135.0082 h 36.9604"
-         id="path5196-9" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g5198-2"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,1139.9362)"
-         id="text5200-7">5.9</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5202-8"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,1192.4088 h 36.9604"
-         id="path5204-6" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g5206-8"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,1197.3369)"
-         id="text5208-8">5.8</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5210-7"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,1235.4593 h 36.9604"
-         id="path5212-4" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g5214-9"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,1240.3873)"
-         id="text5216-5">5.7</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5218-2"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,1267.7471 h 36.9604"
-         id="path5220-3" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g5222-6"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,1272.6752)"
-         id="text5224-0">5.6</text>
-    </g>
-    <g
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       stroke-miterlimit="10.0"
-       id="g5226-3"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 130.5935,1323.7464 h 36.9604"
-         id="path5228-1" />
-    </g>
-    <g
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-       font-size="24.640273780819783px"
-       stroke-miterlimit="10.0"
-       id="g5230-0"
-       transform="matrix(1.0000149,0,0,1.0000149,5926.3718,148.193)">
-      <text
-         style="text-anchor:end;stroke:none"
-         dominant-baseline="text-after-edge"
-         transform="translate(123.2014,1328.6745)"
-         id="text5232-0">5.3</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41217"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41219"
-         d="M 2683.3258,1402.8778 V 140.0638"
-         inkscape:connector-curvature="0" />
     </g>
     <g
        transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
@@ -11481,786 +10681,6 @@
          transform="translate(2638.9733,147.4559)"
          dominant-baseline="text-after-edge"
          style="text-anchor:end;stroke:none">5.13a</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41229"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41231"
-         d="m 2646.3654,216.598 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41233"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41235"
-         transform="translate(2638.9733,221.526)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.12d</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41237"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41239"
-         d="m 2646.3654,293.1321 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41241"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41243"
-         transform="translate(2638.9733,298.0602)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.12c</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41245"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41247"
-         d="m 2646.3654,369.6663 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41249"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41251"
-         transform="translate(2638.9733,374.5944)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.12b</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41253"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41255"
-         d="m 2646.3654,446.2005 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41257"
-       stroke-miterlimit="10.0"
-       font-size="36.960410671229674px"
-       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41259"
-         transform="translate(2638.9733,453.5926)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.12a</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41261"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41263"
-         d="m 2646.3654,522.7347 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41265"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41267"
-         transform="translate(2638.9733,527.6628)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.11d</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41269"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41271"
-         d="m 2646.3654,599.2689 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41273"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41275"
-         transform="translate(2638.9733,604.1969)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.11c</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41277"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41279"
-         d="m 2646.3654,675.8031 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41281"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41283"
-         transform="translate(2638.9733,680.7311)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.11b</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41285"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41287"
-         d="m 2646.3654,752.3372 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41289"
-       stroke-miterlimit="10.0"
-       font-size="36.960410671229674px"
-       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41291"
-         transform="translate(2638.9733,759.7293)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.11a</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41293"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41295"
-         d="m 2646.3654,828.8714 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41297"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41299"
-         transform="translate(2638.9733,833.7995)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.10d</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41301"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41303"
-         d="m 2646.3654,905.4056 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41305"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41307"
-         transform="translate(2638.9733,910.3337)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.10c</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41309"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41311"
-         d="m 2646.3654,981.9398 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41313"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41315"
-         transform="translate(2638.9733,986.8679)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.10b</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41317"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41319"
-         d="m 2646.3654,1058.474 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41321"
-       stroke-miterlimit="10.0"
-       font-size="36.960410671229674px"
-       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41323"
-         transform="translate(2638.9733,1065.8661)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.10a</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41325"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41327"
-         d="m 2646.3654,1135.0082 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41329"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41331"
-         transform="translate(2638.9733,1139.9362)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.9</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41333"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41335"
-         d="m 2646.3654,1192.4088 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41337"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41339"
-         transform="translate(2638.9733,1197.3369)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.8</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41341"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41343"
-         d="m 2646.3654,1235.4593 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41345"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41347"
-         transform="translate(2638.9733,1240.3873)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.7</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41349"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41351"
-         d="m 2646.3654,1267.7471 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41353"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41355"
-         transform="translate(2638.9733,1272.6752)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.6</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41357"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41359"
-         d="m 2646.3654,1323.7464 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,342.75888,148.193)"
-       id="g41361"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41363"
-         transform="translate(2638.9733,1328.6745)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.3</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41365"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41367"
-         d="M 167.5539,1402.8778 V 140.0638"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41369"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41371"
-         d="m 130.5935,140.0638 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41373"
-       stroke-miterlimit="10.0"
-       font-size="36.960410671229674px"
-       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41375"
-         transform="translate(123.2014,147.4559)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.13a</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41377"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41379"
-         d="m 130.5935,216.598 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41381"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41383"
-         transform="translate(123.2014,221.526)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.12d</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41385"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41387"
-         d="m 130.5935,293.1321 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41389"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41391"
-         transform="translate(123.2014,298.0602)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.12c</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41393"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41395"
-         d="m 130.5935,369.6663 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41397"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41399"
-         transform="translate(123.2014,374.5944)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.12b</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41401"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41403"
-         d="m 130.5935,446.2005 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41405"
-       stroke-miterlimit="10.0"
-       font-size="36.960410671229674px"
-       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41407"
-         transform="translate(123.2014,453.5926)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.12a</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41409"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41411"
-         d="m 130.5935,522.7347 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41413"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41415"
-         transform="translate(123.2014,527.6628)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.11d</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41417"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41419"
-         d="m 130.5935,599.2689 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41421"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41423"
-         transform="translate(123.2014,604.1969)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.11c</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41425"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41427"
-         d="m 130.5935,675.8031 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41429"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41431"
-         transform="translate(123.2014,680.7311)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.11b</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41433"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41435"
-         d="m 130.5935,752.3372 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41437"
-       stroke-miterlimit="10.0"
-       font-size="36.960410671229674px"
-       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41439"
-         transform="translate(123.2014,759.7293)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.11a</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41441"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41443"
-         d="m 130.5935,828.8714 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41445"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41447"
-         transform="translate(123.2014,833.7995)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.10d</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41449"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41451"
-         d="m 130.5935,905.4056 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41453"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41455"
-         transform="translate(123.2014,910.3337)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.10c</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41457"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41459"
-         d="m 130.5935,981.9398 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41461"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41463"
-         transform="translate(123.2014,986.8679)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.10b</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41465"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41467"
-         d="m 130.5935,1058.474 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41469"
-       stroke-miterlimit="10.0"
-       font-size="36.960410671229674px"
-       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41471"
-         transform="translate(123.2014,1065.8661)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.10a</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41473"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41475"
-         d="m 130.5935,1135.0082 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41477"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41479"
-         transform="translate(123.2014,1139.9362)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.9</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41481"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41483"
-         d="m 130.5935,1192.4088 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41485"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41487"
-         transform="translate(123.2014,1197.3369)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.8</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41489"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41491"
-         d="m 130.5935,1235.4593 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41493"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41495"
-         transform="translate(123.2014,1240.3873)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.7</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41497"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41499"
-         d="m 130.5935,1267.7471 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41501"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41503"
-         transform="translate(123.2014,1272.6752)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.6</text>
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41505"
-       stroke-miterlimit="10.0"
-       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <path
-         id="path41507"
-         d="m 130.5935,1323.7464 h 36.9604"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(1.0000149,0,0,1.0000149,2858.4216,148.193)"
-       id="g41509"
-       stroke-miterlimit="10.0"
-       font-size="24.640273780819783px"
-       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1">
-      <text
-         id="text41511"
-         transform="translate(123.2014,1328.6745)"
-         dominant-baseline="text-after-edge"
-         style="text-anchor:end;stroke:none">5.3</text>
     </g>
     <g
        transform="matrix(1.0000149,0,0,1.0000149,2492.4062,148.73963)"
@@ -12667,6 +11087,774 @@
          transform="translate(7402.7596,1328.6745)"
          dominant-baseline="text-after-edge"
          style="text-anchor:end;stroke:none">5.3</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1574-9-0"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 7447.1121,1402.8778 V 140.0638"
+         id="path1576-9-9" />
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1586-0-3"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,216.598 h 36.9604"
+         id="path1588-5-4" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1590-4-4"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,221.526)"
+         id="text1592-1-9">5.12d</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1594-4-4"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,293.1321 h 36.9604"
+         id="path1596-5-8" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1598-8-0"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,298.0602)"
+         id="text1600-5-6">5.12c</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1602-1-7"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,369.6663 h 36.9604"
+         id="path1604-9-8" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1606-96-4"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,374.5944)"
+         id="text1608-7-5">5.12b</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1610-9-9"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,446.2005 h 36.9604"
+         id="path1612-0-3" />
+    </g>
+    <g
+       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="36.960410671229674px"
+       stroke-miterlimit="10.0"
+       id="g1614-5-9"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,453.5926)"
+         id="text1616-9-8">5.12a</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1618-7-0"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,522.7347 h 36.9604"
+         id="path1620-6-1" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1622-6-3"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,527.6628)"
+         id="text1624-8-9">5.11d</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1626-1-4"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,599.2689 h 36.9604"
+         id="path1628-8-7" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1630-9-2"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,604.1969)"
+         id="text1632-2-6">5.11c</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1634-9-9"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,675.8031 h 36.9604"
+         id="path1636-5-4" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1638-4-5"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,680.7311)"
+         id="text1640-6-9">5.11b</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1642-2-4"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,752.3372 h 36.9604"
+         id="path1644-7-8" />
+    </g>
+    <g
+       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="36.960410671229674px"
+       stroke-miterlimit="10.0"
+       id="g1646-6-4"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,759.7293)"
+         id="text1648-7-9">5.11a</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1650-1-2"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,828.8714 h 36.9604"
+         id="path1652-7-0" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1654-1-0"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,833.7995)"
+         id="text1656-8-6">5.10d</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1658-6-9"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,905.4056 h 36.9604"
+         id="path1660-8-1" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1662-0-5"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,910.3337)"
+         id="text1664-7-6">5.10c</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1666-8-9"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,981.9398 h 36.9604"
+         id="path1668-6-1" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1670-6-2"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,986.8679)"
+         id="text1672-9-0">5.10b</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1674-6-7"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,1058.474 h 36.9604"
+         id="path1676-1-3" />
+    </g>
+    <g
+       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="36.960410671229674px"
+       stroke-miterlimit="10.0"
+       id="g1678-8-0"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,1065.8661)"
+         id="text1680-5-7">5.10a</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1682-9-7"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,1135.0082 h 36.9604"
+         id="path1684-6-4" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1686-6-8"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,1139.9362)"
+         id="text1688-1-1">5.9</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1690-7-3"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,1192.4088 h 36.9604"
+         id="path1692-55-0" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1694-6-7"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,1197.3369)"
+         id="text1696-3-2">5.8</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1698-0-5"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,1235.4593 h 36.9604"
+         id="path1700-2-2" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1702-5-3"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,1240.3873)"
+         id="text1704-9-1">5.7</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1706-8-2"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,1267.7471 h 36.9604"
+         id="path1708-2-8" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1710-3-0"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,1272.6752)"
+         id="text1712-8-6">5.6</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1714-6-8"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,1323.7464 h 36.9604"
+         id="path1716-1-0" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1718-6-3"
+       transform="matrix(1.0000149,0,0,1.0000149,-1353.2216,147.7746)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,1328.6745)"
+         id="text1720-6-7">5.3</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1574-9-7"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 7447.1121,1402.8778 V 140.0638"
+         id="path1576-9-7" />
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1586-0-30"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,216.598 h 36.9604"
+         id="path1588-5-0" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1590-4-8"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,221.526)"
+         id="text1592-1-7">5.12d</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1594-4-1"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,293.1321 h 36.9604"
+         id="path1596-5-7" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1598-8-4"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,298.0602)"
+         id="text1600-5-4">5.12c</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1602-1-5"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,369.6663 h 36.9604"
+         id="path1604-9-4" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1606-96-2"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,374.5944)"
+         id="text1608-7-8">5.12b</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1610-9-90"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,446.2005 h 36.9604"
+         id="path1612-0-4" />
+    </g>
+    <g
+       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="36.960410671229674px"
+       stroke-miterlimit="10.0"
+       id="g1614-5-4"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,453.5926)"
+         id="text1616-9-2">5.12a</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1618-7-8"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,522.7347 h 36.9604"
+         id="path1620-6-9" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1622-6-7"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,527.6628)"
+         id="text1624-8-2">5.11d</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1626-1-0"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,599.2689 h 36.9604"
+         id="path1628-8-3" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1630-9-4"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,604.1969)"
+         id="text1632-2-0">5.11c</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1634-9-2"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,675.8031 h 36.9604"
+         id="path1636-5-6" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1638-4-0"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,680.7311)"
+         id="text1640-6-1">5.11b</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1642-2-45"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,752.3372 h 36.9604"
+         id="path1644-7-3" />
+    </g>
+    <g
+       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="36.960410671229674px"
+       stroke-miterlimit="10.0"
+       id="g1646-6-6"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,759.7293)"
+         id="text1648-7-3">5.11a</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1650-1-27"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,828.8714 h 36.9604"
+         id="path1652-7-07" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1654-1-4"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,833.7995)"
+         id="text1656-8-8">5.10d</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1658-6-1"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,905.4056 h 36.9604"
+         id="path1660-8-8" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1662-0-6"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,910.3337)"
+         id="text1664-7-2">5.10c</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1666-8-92"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,981.9398 h 36.9604"
+         id="path1668-6-6" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1670-6-3"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,986.8679)"
+         id="text1672-9-2">5.10b</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1674-6-70"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,1058.474 h 36.9604"
+         id="path1676-1-4" />
+    </g>
+    <g
+       style="font-size:36.96041107px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="36.960410671229674px"
+       stroke-miterlimit="10.0"
+       id="g1678-8-05"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,1065.8661)"
+         id="text1680-5-8">5.10a</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1682-9-0"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,1135.0082 h 36.9604"
+         id="path1684-6-0" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1686-6-7"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,1139.9362)"
+         id="text1688-1-0">5.9</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1690-7-1"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,1192.4088 h 36.9604"
+         id="path1692-55-3" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1694-6-74"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,1197.3369)"
+         id="text1696-3-9">5.8</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1698-0-0"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,1235.4593 h 36.9604"
+         id="path1700-2-7" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1702-5-8"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,1240.3873)"
+         id="text1704-9-3">5.7</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1706-8-6"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,1267.7471 h 36.9604"
+         id="path1708-2-4" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1710-3-3"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,1272.6752)"
+         id="text1712-8-9">5.6</text>
+    </g>
+    <g
+       style="font-size:1px;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.92805481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       stroke-miterlimit="10.0"
+       id="g1714-6-3"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 7410.1517,1323.7464 h 36.9604"
+         id="path1716-1-1" />
+    </g>
+    <g
+       style="font-size:24.64027405px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.18524742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       font-size="24.640273780819783px"
+       stroke-miterlimit="10.0"
+       id="g1718-6-4"
+       transform="matrix(1.0000149,0,0,1.0000149,-4421.1762,148.33792)">
+      <text
+         style="text-anchor:end;stroke:none"
+         dominant-baseline="text-after-edge"
+         transform="translate(7402.7596,1328.6745)"
+         id="text1720-6-4">5.3</text>
     </g>
   </g>
   <g
@@ -14404,11 +13592,6 @@
              id="g9464"
              transform="translate(164.50079,-3125.515)">
             <path
-               style="fill:#ffffff;stroke:none"
-               inkscape:connector-curvature="0"
-               d="M 7732,8760 0,8760 0,0 l 15463,0 0,8760 -7731,0 z"
-               id="path8992" />
-            <path
                style="fill:none;stroke:#b3b3b3;stroke-width:102;stroke-linejoin:round"
                inkscape:connector-curvature="0"
                d="m 1189,7909 0,-149"
@@ -14605,9 +13788,10 @@
                id="path9070" />
             <text
                class="TextShape"
-               id="text9072">
+               id="text9072"
+               style="font-size:731.07403305px">
               <tspan
-                 style="font-size:701px;font-weight:400;font-family:Liberation Sans"
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans"
                  class="TextParagraph"
                  font-size="701px"
                  font-weight="400"
@@ -14616,18 +13800,20 @@
                    class="TextPosition"
                    x="1522"
                    y="8664"
-                   id="tspan9076">
+                   id="tspan9076"
+                   style="font-size:731.07403305px">
                   <tspan
-                     style="fill:#000000;stroke:none"
+                     style="fill:#000000;stroke:none;font-size:731.07403305px"
                      id="tspan9078">V0</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                class="TextShape"
-               id="text9080">
+               id="text9080"
+               style="font-size:731.07403305px">
               <tspan
-                 style="font-size:701px;font-weight:400;font-family:Liberation Sans"
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans"
                  class="TextParagraph"
                  font-size="701px"
                  font-weight="400"
@@ -14636,18 +13822,20 @@
                    class="TextPosition"
                    x="3062"
                    y="8664"
-                   id="tspan9084">
+                   id="tspan9084"
+                   style="font-size:731.07403305px">
                   <tspan
-                     style="fill:#000000;stroke:none"
+                     style="fill:#000000;stroke:none;font-size:731.07403305px"
                      id="tspan9086">V1</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                class="TextShape"
-               id="text9088">
+               id="text9088"
+               style="font-size:731.07403305px">
               <tspan
-                 style="font-size:701px;font-weight:400;font-family:Liberation Sans"
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans"
                  class="TextParagraph"
                  font-size="701px"
                  font-weight="400"
@@ -14656,18 +13844,20 @@
                    class="TextPosition"
                    x="4602"
                    y="8664"
-                   id="tspan9092">
+                   id="tspan9092"
+                   style="font-size:731.07403305px">
                   <tspan
-                     style="fill:#000000;stroke:none"
+                     style="fill:#000000;stroke:none;font-size:731.07403305px"
                      id="tspan9094">V2</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                class="TextShape"
-               id="text9096">
+               id="text9096"
+               style="font-size:731.07403305px">
               <tspan
-                 style="font-size:701px;font-weight:400;font-family:Liberation Sans"
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans"
                  class="TextParagraph"
                  font-size="701px"
                  font-weight="400"
@@ -14676,18 +13866,20 @@
                    class="TextPosition"
                    x="6143"
                    y="8664"
-                   id="tspan9100">
+                   id="tspan9100"
+                   style="font-size:731.07403305px">
                   <tspan
-                     style="fill:#000000;stroke:none"
+                     style="fill:#000000;stroke:none;font-size:731.07403305px"
                      id="tspan9102">V3</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                class="TextShape"
-               id="text9104">
+               id="text9104"
+               style="font-size:731.07403305px">
               <tspan
-                 style="font-size:701px;font-weight:400;font-family:Liberation Sans"
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans"
                  class="TextParagraph"
                  font-size="701px"
                  font-weight="400"
@@ -14696,18 +13888,20 @@
                    class="TextPosition"
                    x="7683"
                    y="8664"
-                   id="tspan9108">
+                   id="tspan9108"
+                   style="font-size:731.07403305px">
                   <tspan
-                     style="fill:#000000;stroke:none"
+                     style="fill:#000000;stroke:none;font-size:731.07403305px"
                      id="tspan9110">V4</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                class="TextShape"
-               id="text9112">
+               id="text9112"
+               style="font-size:731.07403305px">
               <tspan
-                 style="font-size:701px;font-weight:400;font-family:Liberation Sans"
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans"
                  class="TextParagraph"
                  font-size="701px"
                  font-weight="400"
@@ -14716,18 +13910,20 @@
                    class="TextPosition"
                    x="9223"
                    y="8664"
-                   id="tspan9116">
+                   id="tspan9116"
+                   style="font-size:731.07403305px">
                   <tspan
-                     style="fill:#000000;stroke:none"
+                     style="fill:#000000;stroke:none;font-size:731.07403305px"
                      id="tspan9118">V5</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                class="TextShape"
-               id="text9120">
+               id="text9120"
+               style="font-size:731.07403305px">
               <tspan
-                 style="font-size:701px;font-weight:400;font-family:Liberation Sans"
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans"
                  class="TextParagraph"
                  font-size="701px"
                  font-weight="400"
@@ -14736,18 +13932,20 @@
                    class="TextPosition"
                    x="10764"
                    y="8664"
-                   id="tspan9124">
+                   id="tspan9124"
+                   style="font-size:731.07403305px">
                   <tspan
-                     style="fill:#000000;stroke:none"
+                     style="fill:#000000;stroke:none;font-size:731.07403305px"
                      id="tspan9126">V6</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                class="TextShape"
-               id="text9128">
+               id="text9128"
+               style="font-size:731.07403305px">
               <tspan
-                 style="font-size:701px;font-weight:400;font-family:Liberation Sans"
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans"
                  class="TextParagraph"
                  font-size="701px"
                  font-weight="400"
@@ -14756,18 +13954,20 @@
                    class="TextPosition"
                    x="12304"
                    y="8664"
-                   id="tspan9132">
+                   id="tspan9132"
+                   style="font-size:731.07403305px">
                   <tspan
-                     style="fill:#000000;stroke:none"
+                     style="fill:#000000;stroke:none;font-size:731.07403305px"
                      id="tspan9134">V7</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                class="TextShape"
-               id="text9136">
+               id="text9136"
+               style="font-size:731.07403305px">
               <tspan
-                 style="font-size:701px;font-weight:400;font-family:Liberation Sans"
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans"
                  class="TextParagraph"
                  font-size="701px"
                  font-weight="400"
@@ -14776,18 +13976,20 @@
                    class="TextPosition"
                    x="13844"
                    y="8664"
-                   id="tspan9140">
+                   id="tspan9140"
+                   style="font-size:731.07403305px">
                   <tspan
-                     style="fill:#000000;stroke:none"
+                     style="fill:#000000;stroke:none;font-size:731.07403305px"
                      id="tspan9142">V8</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                class="TextShape"
-               id="text9144">
+               id="text9144"
+               style="font-size:731.07403305px">
               <tspan
-                 style="font-size:701px;font-weight:400;font-family:Liberation Sans"
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans"
                  class="TextParagraph"
                  font-size="701px"
                  font-weight="400"
@@ -14796,18 +13998,20 @@
                    class="TextPosition"
                    x="542"
                    y="8009"
-                   id="tspan9148">
+                   id="tspan9148"
+                   style="font-size:731.07403305px">
                   <tspan
-                     style="fill:#000000;stroke:none"
+                     style="fill:#000000;stroke:none;font-size:731.07403305px"
                      id="tspan9150">0</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                class="TextShape"
-               id="text9152">
+               id="text9152"
+               style="font-size:731.07403305px">
               <tspan
-                 style="font-size:701px;font-weight:400;font-family:Liberation Sans"
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans"
                  class="TextParagraph"
                  font-size="701px"
                  font-weight="400"
@@ -14816,18 +14020,20 @@
                    class="TextPosition"
                    x="145"
                    y="5595"
-                   id="tspan9156">
+                   id="tspan9156"
+                   style="font-size:731.07403305px">
                   <tspan
-                     style="fill:#000000;stroke:none"
+                     style="fill:#000000;stroke:none;font-size:731.07403305px"
                      id="tspan9158">10</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                class="TextShape"
-               id="text9160">
+               id="text9160"
+               style="font-size:731.07403305px">
               <tspan
-                 style="font-size:701px;font-weight:400;font-family:Liberation Sans"
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans"
                  class="TextParagraph"
                  font-size="701px"
                  font-weight="400"
@@ -14836,18 +14042,20 @@
                    class="TextPosition"
                    x="145"
                    y="3180"
-                   id="tspan9164">
+                   id="tspan9164"
+                   style="font-size:731.07403305px">
                   <tspan
-                     style="fill:#000000;stroke:none"
+                     style="fill:#000000;stroke:none;font-size:731.07403305px"
                      id="tspan9166">20</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                class="TextShape"
-               id="text9168">
+               id="text9168"
+               style="font-size:731.07403305px">
               <tspan
-                 style="font-size:701px;font-weight:400;font-family:Liberation Sans"
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans"
                  class="TextParagraph"
                  font-size="701px"
                  font-weight="400"
@@ -14856,9 +14064,10 @@
                    class="TextPosition"
                    x="145"
                    y="766"
-                   id="tspan9172">
+                   id="tspan9172"
+                   style="font-size:731.07403305px">
                   <tspan
-                     style="fill:#000000;stroke:none"
+                     style="fill:#000000;stroke:none;font-size:731.07403305px"
                      id="tspan9174">30</tspan>
                 </tspan>
               </tspan>
@@ -14868,11 +14077,6 @@
              style="stroke-width:28.22200012;stroke-linejoin:round"
              id="g9796"
              transform="translate(-2.0518944,6574.6627)">
-            <path
-               id="path9560"
-               d="M 7710,8031 1,8031 1,0 l 15418,0 0,8031 -7709,0 z"
-               inkscape:connector-curvature="0"
-               style="fill:#ffffff;stroke:none" />
             <path
                id="path9562"
                d="m 1354,7135 0,-150"
@@ -15120,324 +14324,356 @@
                style="fill:#ff950e;stroke:none" />
             <text
                id="text9660"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:522.19573789px">
               <tspan
                  id="tspan9662"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:522.19573789px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9664"
                    y="7738"
                    x="1367"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:522.19573789px">
                   <tspan
                      id="tspan9666"
-                     style="fill:#000000;stroke:none">≤</tspan>
+                     style="fill:#000000;stroke:none;font-size:522.19573789px">≤</tspan>
                   <tspan
                      id="tspan9668"
-                     style="fill:#000000;stroke:none">5.5</tspan>
+                     style="fill:#000000;stroke:none;font-size:522.19573789px">5.5</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text9670"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:522.19573789px">
               <tspan
                  id="tspan9672"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:522.19573789px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9674"
                    y="7738"
                    x="2716"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:522.19573789px">
                   <tspan
                      id="tspan9676"
-                     style="fill:#000000;stroke:none">.6</tspan>
+                     style="fill:#000000;stroke:none;font-size:522.19573789px">.6</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text9678"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:522.19573789px">
               <tspan
                  id="tspan9680"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:522.19573789px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9682"
                    y="7738"
                    x="3774"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:522.19573789px">
                   <tspan
                      id="tspan9684"
-                     style="fill:#000000;stroke:none">.7</tspan>
+                     style="fill:#000000;stroke:none;font-size:522.19573789px">.7</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text9686"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:522.19573789px">
               <tspan
                  id="tspan9688"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:522.19573789px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9690"
                    y="7738"
                    x="4833"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:522.19573789px">
                   <tspan
                      id="tspan9692"
-                     style="fill:#000000;stroke:none">.8</tspan>
+                     style="fill:#000000;stroke:none;font-size:522.19573789px">.8</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text9694"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:522.19573789px">
               <tspan
                  id="tspan9696"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:522.19573789px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9698"
                    y="7738"
                    x="5891"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:522.19573789px">
                   <tspan
                      id="tspan9700"
-                     style="fill:#000000;stroke:none">.9</tspan>
+                     style="fill:#000000;stroke:none;font-size:522.19573789px">.9</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text9702"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:522.19573789px">
               <tspan
                  id="tspan9704"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:522.19573789px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9706"
                    y="7738"
                    x="6711"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:522.19573789px">
                   <tspan
                      id="tspan9708"
-                     style="fill:#000000;stroke:none">10A</tspan>
+                     style="fill:#000000;stroke:none;font-size:522.19573789px">10A</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text9710"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:522.19573789px">
               <tspan
                  id="tspan9712"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:522.19573789px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9714"
                    y="7738"
                    x="8061"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:522.19573789px">
                   <tspan
                      id="tspan9716"
-                     style="fill:#000000;stroke:none">B</tspan>
+                     style="fill:#000000;stroke:none;font-size:522.19573789px">B</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text9718"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:522.19573789px">
               <tspan
                  id="tspan9720"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:522.19573789px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9722"
                    y="7738"
                    x="9106"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:522.19573789px">
                   <tspan
                      id="tspan9724"
-                     style="fill:#000000;stroke:none">C</tspan>
+                     style="fill:#000000;stroke:none;font-size:522.19573789px">C</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text9726"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:522.19573789px">
               <tspan
                  id="tspan9728"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:522.19573789px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9730"
                    y="7738"
                    x="10164"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:522.19573789px">
                   <tspan
                      id="tspan9732"
-                     style="fill:#000000;stroke:none">D</tspan>
+                     style="fill:#000000;stroke:none;font-size:522.19573789px">D</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text9734"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:522.19573789px">
               <tspan
                  id="tspan9736"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:522.19573789px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9738"
                    y="7738"
                    x="10944"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:522.19573789px">
                   <tspan
                      id="tspan9740"
-                     style="fill:#000000;stroke:none">11A</tspan>
+                     style="fill:#000000;stroke:none;font-size:522.19573789px">11A</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text9742"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:522.19573789px">
               <tspan
                  id="tspan9744"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:522.19573789px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9746"
                    y="7738"
                    x="12294"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:522.19573789px">
                   <tspan
                      id="tspan9748"
-                     style="fill:#000000;stroke:none">B</tspan>
+                     style="fill:#000000;stroke:none;font-size:522.19573789px">B</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text9750"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:522.19573789px">
               <tspan
                  id="tspan9752"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:522.19573789px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9754"
                    y="7738"
                    x="13339"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:522.19573789px">
                   <tspan
                      id="tspan9756"
-                     style="fill:#000000;stroke:none">C</tspan>
+                     style="fill:#000000;stroke:none;font-size:522.19573789px">C</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text9758"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:522.19573789px">
               <tspan
                  id="tspan9760"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:522.19573789px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9762"
                    y="7738"
                    x="14397"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:522.19573789px">
                   <tspan
                      id="tspan9764"
-                     style="fill:#000000;stroke:none">D</tspan>
+                     style="fill:#000000;stroke:none;font-size:522.19573789px">D</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text9766"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:731.07403305px">
               <tspan
                  id="tspan9768"
                  font-weight="400"
                  font-size="706px"
                  class="TextParagraph"
-                 style="font-size:706px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9770"
                    y="7237"
                    x="707"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:731.07403305px">
                   <tspan
                      id="tspan9772"
-                     style="fill:#000000;stroke:none">0</tspan>
+                     style="fill:#000000;stroke:none;font-size:731.07403305px">0</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text9774"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:731.07403305px">
               <tspan
                  id="tspan9776"
                  font-weight="400"
                  font-size="706px"
                  class="TextParagraph"
-                 style="font-size:706px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9778"
                    y="4506"
                    x="310"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:731.07403305px">
                   <tspan
                      id="tspan9780"
-                     style="fill:#000000;stroke:none">10</tspan>
+                     style="fill:#000000;stroke:none;font-size:731.07403305px">10</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text9782"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:731.07403305px">
               <tspan
                  id="tspan9784"
                  font-weight="400"
                  font-size="706px"
                  class="TextParagraph"
-                 style="font-size:706px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan9786"
                    y="1775"
                    x="310"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:731.07403305px">
                   <tspan
                      id="tspan9788"
-                     style="fill:#000000;stroke:none">20</tspan>
+                     style="fill:#000000;stroke:none;font-size:731.07403305px">20</tspan>
                 </tspan>
               </tspan>
             </text>
@@ -15446,11 +14682,6 @@
              style="stroke-width:28.22200012;stroke-linejoin:round"
              id="g10151"
              transform="translate(331.82411,15307.197)">
-            <path
-               id="path9915"
-               d="M 7664,8406 1,8406 1,0 l 15326,0 0,8406 -7663,0 z"
-               inkscape:connector-curvature="0"
-               style="fill:#ffffff;stroke:none" />
             <path
                id="path9917"
                d="m 922,7375 0,-150"
@@ -15703,321 +14934,353 @@
                style="fill:#004586;stroke:none" />
             <text
                id="text10017"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:574.41531168px">
               <tspan
                  id="tspan10019"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:574.41531168px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10021"
                    y="7978"
                    x="1200"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:574.41531168px">
                   <tspan
                      id="tspan10023"
-                     style="fill:#000000;stroke:none">.6</tspan>
+                     style="fill:#000000;stroke:none;font-size:574.41531168px">.6</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text10025"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:574.41531168px">
               <tspan
                  id="tspan10027"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:574.41531168px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10029"
                    y="7978"
                    x="2206"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:574.41531168px">
                   <tspan
                      id="tspan10031"
-                     style="fill:#000000;stroke:none">.7</tspan>
+                     style="fill:#000000;stroke:none;font-size:574.41531168px">.7</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text10033"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:574.41531168px">
               <tspan
                  id="tspan10035"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:574.41531168px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10037"
                    y="7978"
                    x="3213"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:574.41531168px">
                   <tspan
                      id="tspan10039"
-                     style="fill:#000000;stroke:none">.8</tspan>
+                     style="fill:#000000;stroke:none;font-size:574.41531168px">.8</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text10041"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:574.41531168px">
               <tspan
                  id="tspan10043"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:574.41531168px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10045"
                    y="7978"
                    x="4219"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:574.41531168px">
                   <tspan
                      id="tspan10047"
-                     style="fill:#000000;stroke:none">.9</tspan>
+                     style="fill:#000000;stroke:none;font-size:574.41531168px">.9</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text10049"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:574.41531168px">
               <tspan
                  id="tspan10051"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:574.41531168px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10053"
                    y="7978"
                    x="4987"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:574.41531168px">
                   <tspan
                      id="tspan10055"
-                     style="fill:#000000;stroke:none">10A</tspan>
+                     style="fill:#000000;stroke:none;font-size:574.41531168px">10A</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text10057"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:574.41531168px">
               <tspan
                  id="tspan10059"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:574.41531168px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10061"
                    y="7978"
                    x="6285"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:574.41531168px">
                   <tspan
                      id="tspan10063"
-                     style="fill:#000000;stroke:none">B</tspan>
+                     style="fill:#000000;stroke:none;font-size:574.41531168px">B</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text10065"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:574.41531168px">
               <tspan
                  id="tspan10067"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:574.41531168px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10069"
                    y="7978"
                    x="7278"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:574.41531168px">
                   <tspan
                      id="tspan10071"
-                     style="fill:#000000;stroke:none">C</tspan>
+                     style="fill:#000000;stroke:none;font-size:574.41531168px">C</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text10073"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:574.41531168px">
               <tspan
                  id="tspan10075"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:574.41531168px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10077"
                    y="7978"
                    x="8285"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:574.41531168px">
                   <tspan
                      id="tspan10079"
-                     style="fill:#000000;stroke:none">D</tspan>
+                     style="fill:#000000;stroke:none;font-size:574.41531168px">D</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text10081"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:574.41531168px">
               <tspan
                  id="tspan10083"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:574.41531168px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10085"
                    y="7978"
                    x="9013"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:574.41531168px">
                   <tspan
                      id="tspan10087"
-                     style="fill:#000000;stroke:none">11A</tspan>
+                     style="fill:#000000;stroke:none;font-size:574.41531168px">11A</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text10089"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:574.41531168px">
               <tspan
                  id="tspan10091"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:574.41531168px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10093"
                    y="7978"
                    x="10311"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:574.41531168px">
                   <tspan
                      id="tspan10095"
-                     style="fill:#000000;stroke:none">B</tspan>
+                     style="fill:#000000;stroke:none;font-size:574.41531168px">B</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text10097"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:574.41531168px">
               <tspan
                  id="tspan10099"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:574.41531168px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10101"
                    y="7978"
                    x="11304"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:574.41531168px">
                   <tspan
                      id="tspan10103"
-                     style="fill:#000000;stroke:none">C</tspan>
+                     style="fill:#000000;stroke:none;font-size:574.41531168px">C</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text10105"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:574.41531168px">
               <tspan
                  id="tspan10107"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:574.41531168px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10109"
                    y="7978"
                    x="12310"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:574.41531168px">
                   <tspan
                      id="tspan10111"
-                     style="fill:#000000;stroke:none">D</tspan>
+                     style="fill:#000000;stroke:none;font-size:574.41531168px">D</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text10113"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:574.41531168px">
               <tspan
                  id="tspan10115"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:574.41531168px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10117"
                    y="7978"
                    x="13039"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:574.41531168px">
                   <tspan
                      id="tspan10119"
-                     style="fill:#000000;stroke:none">12A</tspan>
+                     style="fill:#000000;stroke:none;font-size:574.41531168px">12A</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text10121"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:574.41531168px">
               <tspan
                  id="tspan10123"
                  font-weight="400"
                  font-size="529px"
                  class="TextParagraph"
-                 style="font-size:529px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:574.41531168px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10125"
                    y="7978"
                    x="14336"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:574.41531168px">
                   <tspan
                      id="tspan10127"
-                     style="fill:#000000;stroke:none">B</tspan>
+                     style="fill:#000000;stroke:none;font-size:574.41531168px">B</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text10129"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:731.07403305px">
               <tspan
                  id="tspan10131"
                  font-weight="400"
                  font-size="706px"
                  class="TextParagraph"
-                 style="font-size:706px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10133"
                    y="7477"
                    x="275"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:731.07403305px">
                   <tspan
                      id="tspan10135"
-                     style="fill:#000000;stroke:none">0</tspan>
+                     style="fill:#000000;stroke:none;font-size:731.07403305px">0</tspan>
                 </tspan>
               </tspan>
             </text>
             <text
                id="text10137"
-               class="TextShape">
+               class="TextShape"
+               style="font-size:731.07403305px">
               <tspan
                  id="tspan10139"
                  font-weight="400"
                  font-size="706px"
                  class="TextParagraph"
-                 style="font-size:706px;font-weight:400;font-family:Liberation Sans">
+                 style="font-size:731.07403305px;font-weight:400;font-family:Liberation Sans">
                 <tspan
                    id="tspan10141"
                    y="3134"
                    x="275"
-                   class="TextPosition">
+                   class="TextPosition"
+                   style="font-size:731.07403305px">
                   <tspan
                      id="tspan10143"
-                     style="fill:#000000;stroke:none">5</tspan>
+                     style="fill:#000000;stroke:none;font-size:731.07403305px">5</tspan>
                 </tspan>
               </tspan>
             </text>
@@ -16588,23 +15851,23 @@
          sodipodi:role="line"
          x="14750.98"
          y="-109.90327"
-         id="tspan12966">After a brief stop in Colorado, I came to </tspan><tspan
+         id="tspan12966">After visiting some awesome</tspan><tspan
          sodipodi:role="line"
          x="14750.98"
          y="-69.902672"
-         id="tspan12976">Leavenworth with two specific goals:</tspan><tspan
+         id="tspan12976">friends in Colorado, I came to Leavenworth </tspan><tspan
          sodipodi:role="line"
          x="14750.98"
          y="-29.902075"
-         id="tspan12968">Pimpsqueak (v8) and Outer Space (5.10-).</tspan><tspan
+         id="tspan43282">focused on two specific goals:</tspan><tspan
          sodipodi:role="line"
          x="14750.98"
          y="10.098521"
-         id="tspan12970">Both lived up to their awesome reputation!</tspan><tspan
+         id="tspan12968">Pimpsqueak (v8) and Outer Space (5.10-).</tspan><tspan
          sodipodi:role="line"
          x="14750.98"
          y="50.099117"
-         id="tspan12972" /></text>
+         id="tspan12972">Both lived up to their awesome reputation!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:32.00047684px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#020000;fill-opacity:0.66666667;stroke:none;font-family:Sans"
@@ -16635,11 +15898,7 @@
          sodipodi:role="line"
          x="16111.541"
          y="84.770561"
-         id="tspan13030">beautiful granite crack climbs.</tspan><tspan
-         sodipodi:role="line"
-         x="16111.541"
-         y="124.77116"
-         id="tspan13032" /></text>
+         id="tspan13032">beautiful granite crack climbs.</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot13000"
@@ -16884,8 +16143,8 @@
        font-size="37.01799485861182px"
        stroke-miterlimit="10.0"
        id="g1330-7"
-       style="font-size:37.01799393px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.20252228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;display:inline"
-       transform="matrix(1.0000117,0,0,1.0000117,569.24411,150.84968)">
+       style="font-size:37.01799393000000293px;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:22.20252228000000017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;display:inline"
+       transform="matrix(1.0000117,0,0,1.0000117,577.05673,150.84968)">
       <text
          dominant-baseline="text-before-edge"
          transform="translate(6562.0566,1476.6067)"
